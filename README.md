@@ -1,1 +1,1 @@
-This project focuses on Tesla stock and predicts the closing price based on the closing prices from the preceding three days using LSTM.
+The project presented is a time series univariate forecasting model using machine learning, with the specific aim to predict future stock prices based on historical data. The dataset used contains stock market information from Tesla, Inc. (TSLA), including daily stock close price ver a specified period.
